@@ -1,0 +1,22 @@
+{
+    "name": "jalinmodule/peminjaman",
+	"type": "library",
+	"license": "MIT",
+    "description": "Demo-package to show time",
+    "authors": [
+        {
+            "name": "Jalin Peminjaman",
+            "email": "zein@jayantara.co.id"
+        }
+    ],
+    "require": {
+        "jalinmodule/barang": "1.*",
+        "jalinmodule/karyawan": "1.*"
+    },
+	"minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Jalinmodule\\Peminjaman\\": "src/"
+        }
+    }
+}
