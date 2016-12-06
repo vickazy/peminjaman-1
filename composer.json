@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "jalinmodule/barang": "1.*",
-        "jalinmodule/karyawan": "1.*"
+        "zein-jayantara/barang": "1.*",
+        "zein-jayantara/karyawan": "1.*"
     },
 	"minimum-stability": "stable",
     "autoload": {
