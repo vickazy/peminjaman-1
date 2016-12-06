@@ -11,7 +11,7 @@ Testing module peminjaman
     "require": {
         ...
 
-        "jalinmodule/peminjaman": "^1.0"
+        "zein-jayantara/peminjaman": "^1.0"
     },
     ```
     
