@@ -11,19 +11,10 @@ Testing module peminjaman
     "require": {
         ...
 
-        "jalinmodule/peminjaman": "dev-master"
+        "jalinmodule/peminjaman": "^1.0"
     },
     ```
-    ```
-    "repositories":[
-        ...
-
-        {
-            "type":"git",
-            "url":"git@git.ip:jalinmodule/peminjaman.git"
-        }
-    ],
-    ```
+    
     * Update composer
     
     ```
