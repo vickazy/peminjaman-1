@@ -12,7 +12,7 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use DB;
 use Jalinmodule\Peminjaman\Models\Peminjaman;
-use Jalinmodule\Karyawan\Models\karyawan;
+use Jalinmodule\Karyawan\Models\Karyawan;
 use Jalinmodule\Barang\Models\Barang;
 
 class PeminjamanController extends Controller
